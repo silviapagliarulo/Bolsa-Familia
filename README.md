@@ -15,14 +15,6 @@ Família Program (BFP) on two dimensions of human welfare:
 Estimation relies on complementary Two-Way Fixed Effects (TWFE) and event
 study specifications over a twenty-year horizon.
 
-## Key Findings
-
-| Outcome | Method                  | Result |
-|---------|-------------------------|--------|
-| IFDM    | Semi-log TWFE           | β = 0.0024*** (1%↑ coverage → 0.0024 pts IFDM) |
-| IFDM    | De-trended event study  | Coefficients accelerate from 2012 (δ2016 = 1.241***) |
-| IMR     | Poisson TWFE            | β = −0.147* (marginally significant) |
-| IMR     | Poisson event study     | 1σ↑ coverage → ~7.9% lower expected IMR by 2014 |
 
 ## Data
 
